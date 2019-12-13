@@ -11,5 +11,5 @@ class Player:
         else:
             print("You cannot move in that direction.")
 
-def transport(self, id):
-        self.currentRoom = id
+# def transport(self, id):
+#         self.currentRoom = id
